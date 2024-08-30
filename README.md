@@ -1,6 +1,8 @@
 # Navigation-Bot
 **Collaborators:** Michael Geltz, Joshua Dwight, Nathan Tegeler, Bennet Palkovic
+
 **Platform:** Tiva TM4C123GH6PM Microcontroller
+
 **Objective:** Make a roomba autonomously navigate an obstacle course, find and "rescue" the objective and then exit the course.
 
 ## Description
